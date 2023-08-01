@@ -6,9 +6,11 @@
 - <b>Security Audit</b>
   - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/blob/main/README.md)
 - <b>Security Incident Response</b>
-  - [Analysis via NIST CSF](https://github.com/Manny-D/NIST-CSF-Security-Incident-Response/blob/main/README.md)
+  - [Analysis via NIST CSF](https://github.com/Manny-D/CySec-NIST-CSF-Security-Incident-Response/blob/main/README.md)
 - <b>File permissions in Linux</b>
-  - [Using Linux commands to manage file permissions](https://github.com/Manny-D/File-Permissions-in-Linux/blob/main/README.md)
+  - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/blob/main/README.md)
+- <b>SQL Queries</b>
+  - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/blob/main/README.md)
 
 </br></br>
 
