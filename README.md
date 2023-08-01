@@ -1,7 +1,7 @@
 <h1>Hi, I'm Manny! <br><a href="https://github.com/Manny-D">Programmer</a> and <a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a></h1>
 </br>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>🕵️ Cybersecurity Projects:</h2>
 
 - <b>Security Audit</b>
   - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/blob/main/README.md)
@@ -18,7 +18,7 @@
   - [Bake it till you Make It](https://github.com/Manny-D/Momentum-Final-Project)
 </br></br>
 
-<h2>Certificates / Certifications:</h2>
+<h2>🏆 Certificates / Certifications:</h2>
 
 - [CompTia A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
