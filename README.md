@@ -1,5 +1,4 @@
-<h1>Hi, I'm Emmanuel but please call me Manny!</h1>
-<h2><a href="https://github.com/Manny-D">Programmer</a> and <a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a></h2>
+<h1>Hi, I'm Manny! <br><a href="https://github.com/Manny-D">Programmer</a> and <a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a></h1>
 </br>
 
 <h2>Cybersecurity Projects:</h2>
