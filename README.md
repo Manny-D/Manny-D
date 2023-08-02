@@ -20,8 +20,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Momentum Music Search Project: HTMLS, CSS, JavaScript, DOM manipulation and the iTunes API</b>
+  - [iTunes Search Clone](https://github.com/Manny-D/Momentum-itunes-plus)
 - <b>Momentum Final Project: Python and Django</b>
   - [Bake it till you Make It](https://github.com/Manny-D/Momentum-Final-Project)
+
 </br></br>
 
 <h2>🏆 Certificates / Certifications:</h2>
