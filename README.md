@@ -11,8 +11,8 @@
   - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/blob/main/README.md)
 - <b>SQL Queries</b>
   - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/blob/main/README.md)
-- <b>Analyze a vulnerable system</b>
-  - [Vulnerability Assessment Report using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/blob/main/README.md)
+- <b>Vulnerability Assessment Report</b>
+  - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/blob/main/README.md)
 
 </br></br>
 
