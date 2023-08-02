@@ -13,7 +13,8 @@
   - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/blob/main/README.md)
 - <b>Vulnerability Assessment Report</b>
   - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/blob/main/README.md)
-
+- <b>Python</b>
+  - [Update a file through a Python algorithm](https://github.com/Manny-D/CySec-Update-a-file-Python-algorithm/blob/main/README.md)
 </br></br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
