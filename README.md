@@ -32,6 +32,7 @@
 - [CompTia A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
 - [(ISC)² Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/linked_in)
+- [FEMA National Incident Management System (NIMS) / Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
 </br></br>
 
 <h2> 🤳 Connect with me:</h2>
