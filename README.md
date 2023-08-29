@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manny! <br><a href="https://github.com/Manny-D">Programmer</a> and <a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Manny! <br><a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a> and <a href="https://github.com/Manny-D">Programmer</a></h1>
 </br>
 
 <h2>🕵️ Cybersecurity Projects:</h2>
