@@ -3,6 +3,8 @@
 
 <h2>🕵️ Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure / Cloud</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
 - <b>Security Audit</b>
   - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/blob/main/README.md)
 - <b>Security Incident Response</b>
