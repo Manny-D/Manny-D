@@ -38,6 +38,7 @@
 - Qualys:
   - [Vulnerability Management - Foundation](https://github.com/Manny-D/Manny-D/assets/99146530/f278d522-e794-46ca-8576-6bd00c52dd43)
   - [(VMDR) Vulnerability Management Detection & Response](https://github.com/Manny-D/Manny-D/assets/99146530/b3cf4322-f130-4b54-b8f2-02e0cb8110c2)
+- [LeveldCareers CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/files/12498736/LeveldCareersCert.pdf)
 
 </br></br>
 
