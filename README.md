@@ -39,6 +39,8 @@
   - [Vulnerability Management - Foundation](https://github.com/Manny-D/Manny-D/assets/99146530/f278d522-e794-46ca-8576-6bd00c52dd43)
   - [(VMDR) Vulnerability Management Detection & Response](https://github.com/Manny-D/Manny-D/assets/99146530/b3cf4322-f130-4b54-b8f2-02e0cb8110c2)
 - [LeveldCareers CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
+- [Active Countermeasures AC-Hunter L1 Cyber Threat Hunting](https://github.com/Manny-D/Manny-D/assets/99146530/da924a52-445d-4a47-b08c-cb4fa0349e8d)
+
 
 
 </br></br>
