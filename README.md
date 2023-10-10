@@ -45,6 +45,8 @@
 - Coursera Practical Labs:
   - [Microsoft Windows Defender and Firewall](https://github.com/Manny-D/Manny-D/assets/99146530/f25318a8-b190-4231-be85-210b7b60aeae)
   - [Analyze Network Traffic with TCPDump](https://github.com/Manny-D/Manny-D/assets/99146530/e296762e-12c8-413a-a9e6-e5403dee4e4d)
+  - [Wireshark: Capture Packets](https://github.com/Manny-D/Manny-D/assets/99146530/85ae4ad1-f989-4294-8063-5de7d0d380c2)
+
 
 
 
