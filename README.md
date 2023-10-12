@@ -20,15 +20,6 @@
 
 </br></br>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>HTMLS, CSS, JavaScript, DOM manipulation and the iTunes API</b>
-  - [Momentum Music Search Project: iTunes Search Clone](https://github.com/Manny-D/Momentum-itunes-plus)
-- <b>Python and Django</b>
-  - [Momentum Final Project: Bake it till you Make It](https://github.com/Manny-D/Momentum-Final-Project)
-
-</br></br>
-
 <h2>🏆 Certificates / Certifications:</h2>
 
 - CompTia
@@ -48,11 +39,16 @@
   - [Wireshark: Capture Packets](https://www.coursera.org/account/accomplishments/verify/HVBXHSSX7FPZ)
 - APISEC University [API Security Fundamentals](https://www.credly.com/earner/earned/badge/4f93b8a0-83a0-42eb-8ffd-85101e5cd04e)
 
+</br>
 
+<h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>HTMLS, CSS, JavaScript, DOM manipulation and the iTunes API</b>
+  - [Momentum Music Search Project: iTunes Search Clone](https://github.com/Manny-D/Momentum-itunes-plus)
+- <b>Python and Django</b>
+  - [Momentum Final Project: Bake it till you Make It](https://github.com/Manny-D/Momentum-Final-Project)
 
-
-</br></br>
+</br>
 
 
 <h2> 🤳 Connect with me:</h2>
