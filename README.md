@@ -40,6 +40,7 @@
 - APISEC University [API Security Fundamentals](https://www.credly.com/earner/earned/badge/4f93b8a0-83a0-42eb-8ffd-85101e5cd04e)
 - Forage Virtual Experience Program
   - [MasterCard Cybersecurity Job Simulation](https://github.com/Manny-D/Manny-D/assets/99146530/fdc3c964-2e93-4272-96a8-3822427119f5)
+- Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
 
 
 </br>
