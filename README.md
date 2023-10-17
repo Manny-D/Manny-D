@@ -1,7 +1,7 @@
 <h1>Hi, I'm Manny! <br><a href="https://www.linkedin.com/in/emmanuel-dador/">Cybersecurity Professional</a> and <a href="https://github.com/Manny-D">Programmer</a></h1>
 </br>
 
-<h2>🕵️ Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects</h2> 
 
 - <b>Microsoft Azure / Cloud</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
@@ -20,7 +20,7 @@
 
 </br></br>
 
-<h2>🏆 Certificates / Certifications:</h2>
+<h2>🏆 Certificates / Certifications</h2>
 
 - CompTia
   - [A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/linked_in_profile)
@@ -45,7 +45,7 @@
 
 </br>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>HTMLS, CSS, JavaScript, DOM manipulation and the iTunes API</b>
   - [Momentum Music Search Project: iTunes Search Clone](https://github.com/Manny-D/Momentum-itunes-plus)
@@ -55,7 +55,7 @@
 </br>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="emmanueldador | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
