@@ -25,13 +25,13 @@
 - CompTia
   - [A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/linked_in_profile)
   - [Security+](https://www.credly.com/badges/9647d3c8-1e98-4bf8-bf31-3404c1d75f0a)
-- Google [Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
 - (ISC)² [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/linked_in)
+- Google [Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
+- LeveldCareers [CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
 - FEMA [National Incident Management System (NIMS) / Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
 - Qualys
   - [Vulnerability Management - Foundation](https://github.com/Manny-D/Manny-D/assets/99146530/f278d522-e794-46ca-8576-6bd00c52dd43)
   - [(VMDR) Vulnerability Management Detection & Response](https://github.com/Manny-D/Manny-D/assets/99146530/b3cf4322-f130-4b54-b8f2-02e0cb8110c2)
-- LeveldCareers [CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
 - Active Countermeasures [AC-Hunter L1 Cyber Threat Hunting](https://github.com/Manny-D/Manny-D/assets/99146530/da924a52-445d-4a47-b08c-cb4fa0349e8d)
 - Coursera Practical Labs
   - [Microsoft Windows Defender and Firewall](https://www.coursera.org/account/accomplishments/verify/L42PK2KDWSMH)
