@@ -35,7 +35,7 @@
   - [Microsoft Windows Defender and Firewall](https://www.coursera.org/account/accomplishments/verify/L42PK2KDWSMH)
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/verify/22RRHBA8UECN)
   - [Wireshark: Capture Packets](https://www.coursera.org/account/accomplishments/verify/HVBXHSSX7FPZ)
-- APISEC University
+- APIsec University
   - [API Security Fundamentals](https://www.credly.com/earner/earned/badge/4f93b8a0-83a0-42eb-8ffd-85101e5cd04e)
   - [OWASP API Security Top 10](https://www.credly.com/earner/earned/badge/93a253b4-cdff-4052-aec0-ef8ffdf7cd65)
 - Forage Virtual Experience Program
