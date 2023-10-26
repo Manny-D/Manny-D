@@ -43,7 +43,7 @@
   - [MasterCard Cybersecurity Job Simulation](https://github.com/Manny-D/Manny-D/assets/99146530/fdc3c964-2e93-4272-96a8-3822427119f5)
 - Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
-- TryHackMe SOC Level 1 Path - [In Progress](https://tryhackme.com/path/outline/soclevel1)
+- TryHackMe SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) - [In Progress](https://tryhackme.com/p/MannyD)
 
 </br>
 
