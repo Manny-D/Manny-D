@@ -44,7 +44,7 @@
 - Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
 - TryHackMe SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) - [In Progress](https://tryhackme.com/p/MannyD)
-  - Currently Top 7% if Active TryHackMe users. 
+  - Currently Top 7% of Active TryHackMe users. 
   - [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
 
 
