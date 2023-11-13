@@ -46,7 +46,7 @@
 - TryHackMe SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) - [In Progress](https://tryhackme.com/p/MannyD)
   - Currently Top 7% of Active TryHackMe users. 
   - [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
-
+-<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="TryHackMe">
 
 </br>
 
