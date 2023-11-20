@@ -45,7 +45,7 @@
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
 - TryHackMe [SOC Level 1 Path](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
   - [Course Outline](https://tryhackme.com/path/outline/soclevel1) 
-  - Top 6% of Active TryHackMe users. <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
+  - Top 5% of Active TryHackMe users. <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
 
 </br>
 
