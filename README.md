@@ -43,9 +43,12 @@
   - [MasterCard Cybersecurity Job Simulation](https://github.com/Manny-D/Manny-D/assets/99146530/fdc3c964-2e93-4272-96a8-3822427119f5)
 - Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
-- TryHackMe [SOC Level 1 Path](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
-  - [Course Outline](https://tryhackme.com/path/outline/soclevel1) 
-  - Top 5% of Active TryHackMe users. <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
+- TryHackMe
+  - Top 5% of Active TryHackMe users. <br> [<img src="https://github.com/Manny-D/Manny-D/assets/99146530/088315bb-a7e2-4ab3-af75-0f26df628b85" alt="Percentile">](https://tryhackme.com/p/MannyD)
+  - [SOC Level 1 Path](https://tryhackme.com/path/outline/soclevel1) / [Course Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
+  - [Cyber Defense Path](https://tryhackme.com/path/outline/blueteam) - In Progress <br>
+  - [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
+  
 
 </br>
 
