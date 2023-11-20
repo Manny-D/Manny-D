@@ -47,7 +47,9 @@
   - Top 5% of Active TryHackMe users. <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
   - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) - In Progress <br>
-- Security Blue Team: [Junior Analyst](https://www.securityblue.team/training#intro-courses) - In Progress
+- Security Blue Team
+  - [Junior Analyst](https://www.securityblue.team/training#intro-courses) - In Progress
+  - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
   
 
 </br>
