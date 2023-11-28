@@ -44,11 +44,11 @@
 - Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
 - TryHackMe
-  - Top 5% of Active TryHackMe users. <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
+  - Top 5% of Active TryHackMe users <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
   - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) - In Progress <br>
 - Security Blue Team
-  - [Junior Analyst](https://www.securityblue.team/training#intro-courses) - In Progress
+  - Blue Team Junior Analyst [(BTJA)](https://github.com/Manny-D/Manny-D/assets/99146530/88da6156-554c-4b43-b158-b3265459cc0b)
   - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
   
 
