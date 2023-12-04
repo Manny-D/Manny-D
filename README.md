@@ -21,9 +21,9 @@
 <h2>🏆 Certificates / Certifications</h2>
 
 - CompTia
-  - [A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/linked_in_profile)
-  - [Security+](https://www.credly.com/badges/9647d3c8-1e98-4bf8-bf31-3404c1d75f0a)
-- (ISC)² [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/linked_in)
+  - [A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/public_url)
+  - [Security+](https://www.credly.com/badges/9647d3c8-1e98-4bf8-bf31-3404c1d75f0a/public_url)
+- (ISC)² [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/public_url)
 - Google [Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
 - LeveldCareers [CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
 - FEMA [National Incident Management System (NIMS) / Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
@@ -41,8 +41,8 @@
   - [API Security for PCI Compliance](https://www.credly.com/badges/8d2f9051-389e-4c8e-b8cc-beadfd302e75/public_url)
 - Forage Virtual Experience Program
   - [MasterCard Cybersecurity Job Simulation](https://github.com/Manny-D/Manny-D/assets/99146530/fdc3c964-2e93-4272-96a8-3822427119f5)
-- Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/linked_in?t=s2kup1)
-- Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/earner/earned/badge/f616d73f-3c25-4b1a-92fe-74218be49fbf)
+- Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/public_url)
+- Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/badges/f616d73f-3c25-4b1a-92fe-74218be49fbf/public_url)
 - TryHackMe
   - Top 5% of Active TryHackMe users <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
