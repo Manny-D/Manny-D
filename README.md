@@ -46,13 +46,14 @@
 - TryHackMe
   - Top 3% of Active TryHackMe users <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
-  - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) - In Progress <br>
+  - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/9a3e7985-0971-4d94-b762-ba7c18b70fdf) <br>
 - Security Blue Team
   - Blue Team Junior Analyst [(BTJA)](https://github.com/Manny-D/Manny-D/assets/99146530/88da6156-554c-4b43-b158-b3265459cc0b)
   - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
 - TCM Security [GRC Analyst Master Class](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
-- XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - Starting soon
+- XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - ETC: Jan '24
 
+https://github.com/Manny-D/Manny-D/assets/99146530/9a3e7985-0971-4d94-b762-ba7c18b70fdf
 
 </br>
 
