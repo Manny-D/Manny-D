@@ -53,7 +53,6 @@
 - TCM Security [GRC Analyst Master Class](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
 - XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - ETC: Jan '24
 
-https://github.com/Manny-D/Manny-D/assets/99146530/9a3e7985-0971-4d94-b762-ba7c18b70fdf
 
 </br>
 
