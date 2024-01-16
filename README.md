@@ -52,7 +52,7 @@
   - Blue Team Junior Analyst [(BTJA)](https://github.com/Manny-D/Manny-D/assets/99146530/88da6156-554c-4b43-b158-b3265459cc0b)
   - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
 - TCM Security [GRC Analyst Master Class](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
-- XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) - ETC: Jan '24
+- XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/50dd1598-5b01-4bce-8153-24039cde5140)
 
 
 </br>
