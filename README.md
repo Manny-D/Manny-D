@@ -54,8 +54,9 @@
 - TCM Security [GRC Analyst Master Class](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
 - XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/50dd1598-5b01-4bce-8153-24039cde5140)
 - Antisyphon Training:
-  - [Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) with John Strand - In Progress 
+  - [Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) with John Strand / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/08a3960e-5e7e-4f84-a872-84d15858b27d) 
   - [SOC Core Skills](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/) with John Strand - early February
+    
 
 </br>
 
