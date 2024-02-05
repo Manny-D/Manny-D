@@ -52,11 +52,11 @@
 - Security Blue Team
   - Blue Team Junior Analyst [(BTJA)](https://github.com/Manny-D/Manny-D/assets/99146530/88da6156-554c-4b43-b158-b3265459cc0b)
   - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
-- TCM Security [GRC Analyst Master Class](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
+- TCM Security [GRC Analyst Master Class](https://academy.tcm-sec.com/p/grc) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/eea8a52e-8df8-4744-889a-1263d8475adb)
 - XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/50dd1598-5b01-4bce-8153-24039cde5140)
 - Antisyphon Training:
   - [Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) with John Strand / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/08a3960e-5e7e-4f84-a872-84d15858b27d) 
-  - [SOC Core Skills](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/) with John Strand - early February
+  - [SOC Core Skills](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/) with John Strand - In Progress
     
 
 </br>
