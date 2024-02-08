@@ -56,7 +56,8 @@
 - XM Cyber [Cybersecurity Exposure Management Course](https://xmcyber.com/exposure-management-course/) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/50dd1598-5b01-4bce-8153-24039cde5140)
 - Antisyphon Training:
   - [Active Defense & Cyber Deception](https://www.antisyphontraining.com/live-courses-catalog/active-defense-cyber-deception-w-john-strand/) with John Strand / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/08a3960e-5e7e-4f84-a872-84d15858b27d) 
-  - [SOC Core Skills](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/) with John Strand - In Progress
+  - [SOC Core Skills](https://www.antisyphontraining.com/live-courses-catalog/soc-core-skills-w-john-strand/) with John Strand / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/a3d3e4cd-fed4-428a-9419-a47087f26049)
+
     
 
 </br>
