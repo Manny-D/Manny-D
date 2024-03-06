@@ -1,6 +1,8 @@
 <h1>Hi, I'm Manny, Cybersecurity Professional and Programmer!</h1>
 <h2>Cybersecurity Projects</h2> 
 
+- <b>Cybersecurity Awareness Content</b>
+  - [Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/blob/main/README.md)
 - <b>Microsoft Azure / Cloud</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
 - <b>Security Audit</b>
