@@ -3,6 +3,8 @@
 
 - <b>Cybersecurity Awareness Content</b>
   - [Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/blob/main/README.md)
+- <b>Splunk</b>
+  - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
 - <b>Microsoft Azure / Cloud</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
 - <b>Security Audit</b>
