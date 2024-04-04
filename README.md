@@ -1,29 +1,40 @@
-<h1>Hi, I'm Manny, Cybersecurity Professional and Programmer!</h1>
-<h2>Cybersecurity Projects</h2> 
+# Hi, I'm Manny, Cybersecurity Professional and Programmer!
 
-- <b>Governance, Risk and Compliance (GRC) Capstone</b>
+## Cybersecurity Projects
+
+- ### Governance, Risk and Compliance (GRC) Capstone
   - [Audit via NIST SP 800-53](https://github.com/Manny-D/Audit-Lab/)
   - [Security Risk Assessment](https://github.com/Manny-D/Security-Risk-Assessment/)
   - [Cybersecurity Awareness Content / Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/)
-- <b>Splunk</b>
+
+- ### Splunk
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
-- <b>Qualys</b>
+    
+- ### Qualys
   - [Vulnerability Management](https://github.com/Manny-D/Qualys/)
-- <b>Microsoft Azure / Cloud</b>
+
+- ### Microsoft Azure
   - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
   - [SOC: Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
-- <b>Security Audit</b>
-  - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
-- <b>Security Incident Response</b>
-  - [Analysis via NIST CSF](https://github.com/Manny-D/CySec-NIST-CSF-Security-Incident-Response/)
-- <b>File permissions in Linux</b>
-  - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/)
-- <b>SQL Queries</b>
-  - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/)
-- <b>Vulnerability Assessment Report</b>
-  - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/)
-- <b>Python</b>
-  - [Update a file through a Python algorithm](https://github.com/Manny-D/CySec-Update-a-file-Python-algorithm/)
+
+- ### Misc Labs
+  - <b>Security Audit</b>
+    - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
+  
+  - <b>Security Incident Response</b>
+    - [Analysis via NIST CSF](https://github.com/Manny-D/CySec-NIST-CSF-Security-Incident-Response/)
+  
+  - <b>File permissions in Linux</b>
+    - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/)
+  
+  - <b>SQL Queries</b>
+    - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/)
+  
+  - <b>Vulnerability Assessment Report</b>
+    - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/)
+  
+  - <b>Python</b>
+    - [Update a file through a Python algorithm](https://github.com/Manny-D/CySec-Update-a-file-Python-algorithm/)
 
 </br>
 
