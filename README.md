@@ -1,8 +1,10 @@
 <h1>Hi, I'm Manny, Cybersecurity Professional and Programmer!</h1>
 <h2>Cybersecurity Projects</h2> 
 
-- <b>Cybersecurity Awareness Content</b>
-  - [Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/blob/main/README.md)
+- <b>Governance, Risk and Compliance (GRC) Capstone</b>
+  - [Audit via NIST SP 800-53](https://github.com/Manny-D/Audit-Lab)
+  - [Security Risk Assessment](https://github.com/Manny-D/Security-Risk-Assessment)
+  - [Cybersecurity Awareness Content / Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/blob/main/README.md)
 - <b>Splunk</b>
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
 - <b>Qualys</b>
