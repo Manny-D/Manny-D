@@ -12,17 +12,17 @@
 - <b>Microsoft Azure / Cloud</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
 - <b>Security Audit</b>
-  - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/blob/main/README.md)
+  - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
 - <b>Security Incident Response</b>
-  - [Analysis via NIST CSF](https://github.com/Manny-D/CySec-NIST-CSF-Security-Incident-Response/blob/main/README.md)
+  - [Analysis via NIST CSF](https://github.com/Manny-D/CySec-NIST-CSF-Security-Incident-Response/)
 - <b>File permissions in Linux</b>
-  - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/blob/main/README.md)
+  - [Using Linux commands to manage file permissions](https://github.com/Manny-D/CySec-File-Permissions-in-Linux/)
 - <b>SQL Queries</b>
-  - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/blob/main/README.md)
+  - [Applying filters to SQL Queries](https://github.com/Manny-D/CySec-SQL/)
 - <b>Vulnerability Assessment Report</b>
-  - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/blob/main/README.md)
+  - [Analyze a vulnerable system using NIST SP 800-30 Rev. 1](https://github.com/Manny-D/CySec-Vulnerability-Assessment-Report/)
 - <b>Python</b>
-  - [Update a file through a Python algorithm](https://github.com/Manny-D/CySec-Update-a-file-Python-algorithm/blob/main/README.md)
+  - [Update a file through a Python algorithm](https://github.com/Manny-D/CySec-Update-a-file-Python-algorithm/)
 
 </br>
 
