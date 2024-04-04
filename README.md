@@ -10,7 +10,8 @@
 - <b>Qualys</b>
   - [Vulnerability Management](https://github.com/Manny-D/Qualys/)
 - <b>Microsoft Azure / Cloud</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC#readme)
+  - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
+  - [SOC: Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
 - <b>Security Audit</b>
   - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
 - <b>Security Incident Response</b>
