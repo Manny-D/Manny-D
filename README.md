@@ -6,7 +6,6 @@
   - [Audit via NIST SP 800-53](https://github.com/Manny-D/Audit-Lab/)
   - [Security Risk Assessment](https://github.com/Manny-D/Security-Risk-Assessment/)
   - [Cybersecurity Awareness Content / Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/)
-
 - ### Splunk
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
     
