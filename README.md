@@ -38,7 +38,7 @@
 - (ISC)² [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/public_url)
 - Google [Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
 - LeveldCareers [CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
-- FEMA [National Incident Management System (NIMS) / Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
+- FEMA National Incident Management System (NIMS): [Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
 - Qualys
   - [Vulnerability Management - Foundation](https://github.com/Manny-D/Manny-D/assets/99146530/f278d522-e794-46ca-8576-6bd00c52dd43)
   - [(VMDR) Vulnerability Management Detection & Response](https://github.com/Manny-D/Manny-D/assets/99146530/b3cf4322-f130-4b54-b8f2-02e0cb8110c2)
