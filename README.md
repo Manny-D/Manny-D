@@ -35,7 +35,9 @@
 - CompTia
   - [A+](https://www.credly.com/badges/f73acb54-e420-413d-a6e1-f018b87b906b/public_url)
   - [Security+](https://www.credly.com/badges/9647d3c8-1e98-4bf8-bf31-3404c1d75f0a/public_url)
-- ISC2 [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/public_url)
+- ISC2
+  - [Certified in CyberSecurity (CC)](https://www.credly.com/badges/0aae7f45-6285-4752-8bff-55c16fa0df00/public_url)
+  - [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/6432bdc0-8121-41d1-9e44-3b6cfdb78f0e/public_url)
 - Google [Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/3RJN9EWHN2D5)
 - LeveldCareers [CyberSecurity SOC Analyst](https://github.com/Manny-D/Manny-D/assets/99146530/9c7ebc40-e133-4c4e-bc95-b0da558e48fa)
 - FEMA National Incident Management System (NIMS): [Intro to the Incident Command System ICS-100.C](https://github.com/Manny-D/Manny-D/assets/99146530/51ca27e8-f9ca-4067-8f1f-226fa3bd3f06)
