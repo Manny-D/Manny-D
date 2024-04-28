@@ -2,6 +2,9 @@
 
 ## Cybersecurity Projects
 
+- ### OWASP Zap
+  - [Web Server / Web Application testing](https://github.com/Manny-D/OWASP-ZAP)
+
 - ### Governance, Risk and Compliance (GRC) Capstone
   - [Audit via NIST SP 800-53](https://github.com/Manny-D/Audit-Lab/)
   - [Security Risk Assessment](https://github.com/Manny-D/Security-Risk-Assessment/)
