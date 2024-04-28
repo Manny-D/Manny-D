@@ -2,7 +2,7 @@
 
 ## Cybersecurity Projects
 
-- ### OWASP Zap
+- ### OWASP ZAP
   - [Web Server / Web Application testing](https://github.com/Manny-D/OWASP-ZAP)
 
 - ### Governance, Risk and Compliance (GRC) Capstone
