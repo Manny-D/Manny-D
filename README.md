@@ -4,11 +4,12 @@
 
 - ### OWASP ZAP
   - [Web Server / Web Application testing](https://github.com/Manny-D/OWASP-ZAP)
-
 - ### Governance, Risk and Compliance (GRC) Capstone
   - [Audit via NIST SP 800-53](https://github.com/Manny-D/Audit-Lab/)
   - [Security Risk Assessment](https://github.com/Manny-D/Security-Risk-Assessment/)
   - [Cybersecurity Awareness Content / Just-In-Time Training](https://github.com/Manny-D/Awareness-Content/)
+- ### Artificial Intelligence (AI)
+  - [Chatbot Injection Attacks](https://github.com/Manny-D/AI-Chatbot-Injection-Attack)  
 - ### Splunk
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
 - ### Qualys
