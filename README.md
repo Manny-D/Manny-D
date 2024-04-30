@@ -81,6 +81,7 @@
   - [SOC 2](https://github.com/Manny-D/Manny-D/assets/99146530/d87ebff9-77d8-45b8-bdfc-0f33c7a372a2) Compliance
 - NIST (National Institute of Standards and Technology)
   - 800-37: Risk Management Framework (RMF) [Intro Course](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/362be9a0-0391-41c9-99e0-79313f0fc60d)
+  - 800-53: Security and Privacy Controls for Information Systems and Organizations [Intro Course](https://csrc.nist.gov/csrc/media/Projects/risk-management/images-media/rmf-training/53-intro-course-v1/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/3ffb72d3-0c05-4d24-b95e-c8f8eced04ca)
 
 </br>
 
