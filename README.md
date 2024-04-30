@@ -83,7 +83,7 @@
   - 800-37: Risk Management Framework (RMF) [Intro Course](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/362be9a0-0391-41c9-99e0-79313f0fc60d)
   - 800-53: Security and Privacy Controls for Information Systems and Organizations [Intro Course](https://csrc.nist.gov/csrc/media/Projects/risk-management/images-media/rmf-training/53-intro-course-v1/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/3ffb72d3-0c05-4d24-b95e-c8f8eced04ca)
   - 800-53A: Assessing Security and Privacy Controls in Information Systems and Organizations [Intro Course](https://csrc.nist.gov/csrc/media/Projects/risk-management/images-media/rmf-training/53A-intro-course-v1/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/6d99d89a-73b0-4a49-983a-7ae723ee99d5)
-
+  - 800-53B: Control Baselines for Information Systems and Organizations [Intro Course](https://csrc.nist.gov/csrc/media/Projects/risk-management/images-media/rmf-training/53B-intro-course-v1/index.html) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/79ebe725-b59d-4a5b-9735-e483e19e8308)
 
 
 </br>
