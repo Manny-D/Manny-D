@@ -12,8 +12,10 @@
   - [Chatbot Injection Attacks](https://github.com/Manny-D/AI-Chatbot-Injection-Attack)  
 - ### Splunk
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
-- ### Qualys
-  - [Vulnerability Management](https://github.com/Manny-D/Qualys/)
+- ### Vulnerability Management / Scanning
+  - WordPress [WPScan](https://github.com/Manny-D/WPScan)
+  - Teneable [Nessus](https://github.com/Manny-D/Nessus) (Work in Progress)
+  - [Qualys](https://github.com/Manny-D/Qualys/)
 - ### Microsoft Azure
   - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
   - [SOC: Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
