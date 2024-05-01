@@ -64,7 +64,7 @@
 - Cisco Certified Support Technician [(CCST) Cybersecurity](https://www.credly.com/badges/619b0cd0-bb6f-46b5-9376-9bebda2f32aa/public_url)
 - Fortinet [Certified Fundamentals Cybersecurity](https://www.credly.com/badges/f616d73f-3c25-4b1a-92fe-74218be49fbf/public_url)
 - TryHackMe
-  - Top 3% of Active TryHackMe users <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
+  - Top 2% of Active TryHackMe users <br> [<img src="https://tryhackme-badges.s3.amazonaws.com/MannyD.png" alt="My TryHackMe Page">](https://tryhackme.com/p/MannyD)
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
   - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/9a3e7985-0971-4d94-b762-ba7c18b70fdf) 
   - [Advent of Cyber](https://tryhackme.com/room/adventofcyber2023) 2023 / Event [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/fb174da8-57ba-4760-81ba-fa8d2d24a914)
