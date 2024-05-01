@@ -14,7 +14,7 @@
   - [Boss of the SOC (BOTS) v2](https://github.com/Manny-D/Splunk)
 - ### Vulnerability Management / Scanning
   - WordPress [WPScan](https://github.com/Manny-D/WPScan)
-  - Teneable [Nessus](https://github.com/Manny-D/Nessus) (Work in Progress)
+  - Tenable [Nessus](https://github.com/Manny-D/Nessus) (Work in Progress)
   - [Qualys](https://github.com/Manny-D/Qualys/)
 - ### Microsoft Azure
   - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
