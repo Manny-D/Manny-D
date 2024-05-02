@@ -17,10 +17,10 @@
   - Tenable [Nessus](https://github.com/Manny-D/Nessus) (Work in Progress)
   - [Qualys](https://github.com/Manny-D/Qualys/)
 - ### Microsoft Azure
-  - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
-  - [SOC: Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
-  - [Active Directory installation on a Windows Server '22 VM / User Creation via PowerShell](https://github.com/Manny-D/Azure-Active-Directory)
-  - Adding Cisco [Duo](https://github.com/Manny-D/Cisco-Duo-MFA-for-RDP) MFA for RDP access on a Windows Server '19 VM
+  - [Honeynet](https://github.com/Manny-D/Azure-Honeynet-SOC) in Azure
+  - SOC: [Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
+  - [Active Directory installation and User Creation](https://github.com/Manny-D/Azure-Active-Directory) (via PowerShell) on a Windows Server '22 VM
+  - [Cisco Duo](https://github.com/Manny-D/Cisco-Duo-MFA-for-RDP) MFA for RDP access on a Windows Server '19 VM
 - ### Misc Labs
   - <b>Security Audit</b>
     - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
