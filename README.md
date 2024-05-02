@@ -20,6 +20,7 @@
   - [Honeynet in Azure](https://github.com/Manny-D/Azure-Honeynet-SOC)
   - [SOC: Incident Response in Sentinel](https://github.com/Manny-D/Incident-Response)
   - [Active Directory installation on a Windows Server '22 VM / User Creation via PowerShell](https://github.com/Manny-D/Azure-Active-Directory)
+  - Adding Cisco [Duo](https://github.com/Manny-D/Cisco-Duo-MFA-for-RDP) MFA for RDP access to a server.  
 - ### Misc Labs
   - <b>Security Audit</b>
     - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
