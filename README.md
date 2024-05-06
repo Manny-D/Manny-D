@@ -22,7 +22,7 @@
   - [Active Directory installation and User Creation](https://github.com/Manny-D/Azure-Active-Directory) (via PowerShell) on a Windows Server '22 VM
   - [Cisco Duo](https://github.com/Manny-D/Cisco-Duo-MFA-for-RDP) MFA for RDP on a Windows Server '19 VM
 - ### AWS (Amazon Web Services)
-  - [AWS Security Hub](https://github.com/Manny-D/AWS-Security-Hub): Overview & Custom action alter for Findings (sending SNS via EventBridge)
+  - [AWS Security Hub](https://github.com/Manny-D/AWS-Security-Hub): Overview & Custom action alert for Findings (SNS via EventBridge)
 - ### Misc Labs
   - <b>Security Audit</b>
     - [Botium Toys internal audit](https://github.com/Manny-D/CySec-Security-Audit/)
