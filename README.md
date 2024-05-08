@@ -5,6 +5,7 @@
 - ### AWS (Amazon Web Services)
   - [AWS Security Hub](https://github.com/Manny-D/AWS-Security-Hub): Overview & Custom action alert for Findings (SNS via EventBridge)
   - Creating a [Virtual Private Cloud (VPC)](https://github.com/Manny-D/Virtual-Private-Cloud-VPC) and an EC2 instance.
+  - AWS Basics: [Deploying a WordPress site](https://github.com/Manny-D/Deploy-WordPress-in-AWS-EC2) into an AWS EC2 instance
 - ### OWASP ZAP
   - [Web Server / Web Application testing](https://github.com/Manny-D/OWASP-ZAP)
 - ### Governance, Risk and Compliance (GRC)
