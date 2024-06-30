@@ -74,7 +74,8 @@
   - SOC Level 1 [Path](https://tryhackme.com/path/outline/soclevel1) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/ba25d8f6-5c91-4ccf-a37a-9e56647152c0)
   - Cyber Defense [Path](https://tryhackme.com/path/outline/blueteam) / Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/9a3e7985-0971-4d94-b762-ba7c18b70fdf) 
   - [Advent of Cyber](https://tryhackme.com/room/adventofcyber2023) 2023 / Event [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/fb174da8-57ba-4760-81ba-fa8d2d24a914)
-  - Security Engineer [Path](https://tryhackme.com/path/outline/security-engineer-training) - In Progress  <br>
+  - Security Engineer [Path](https://tryhackme.com/path/outline/security-engineer-training) - Course [Certificate](https://github.com/Manny-D/Manny-D/assets/99146530/61553ea1-6349-4aff-bf1f-1c7210225e8e)
+  <br>
 - Security Blue Team
   - Blue Team Junior Analyst [(BTJA)](https://github.com/Manny-D/Manny-D/assets/99146530/88da6156-554c-4b43-b158-b3265459cc0b)
   - Blue Team Level 1 (BTL1): [Junior Security Operations](https://www.securityblue.team/why-btl1) - TBD
